@@ -11,6 +11,6 @@
 ### Detalhes do Trabalho
 
 - :mortar_board: Integrantes:
- - Adriano Pereira da Cruz - RA 2219100541
- - Gabriel Mariusso Campachi - RA 3019112775
- - Matheus Luiz de Lima - RA 3019103083  
+  - Adriano Pereira da Cruz - RA 2219100541
+  - Gabriel Mariusso Campachi - RA 3019112775
+  - Matheus Luiz de Lima - RA 3019103083  
