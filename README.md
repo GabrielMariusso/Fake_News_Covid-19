@@ -1,9 +1,10 @@
 # Trabalho da Disciplina de Ciência de Dados
 
-  * Ciência da Computação - 7.º semestre
+:school: Universidade Nove de Julho 
+:computer: Ciência da Computação, 7.º semestre
 
 # Professor
-Prof. Dr. José Eduardo Storopoli
+:blue_book: Prof. Dr. José Eduardo Storopoli
 
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
