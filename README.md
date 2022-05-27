@@ -1,9 +1,9 @@
 # Fake news sobre a pandemia de covid-19
 ### Trabalho da Disciplina de Ciência de Dados
 
-  :school: Faculdade: Universidade Nove de Julho 
-  :computer: Curso: Ciência da Computação
-  :blue_book: Professor: Prof. Dr. José Eduardo Storopoli
+ :school: Faculdade: Universidade Nove de Julho 
+ :computer: Curso: Ciência da Computação
+ :blue_book: Professor: Prof. Dr. José Eduardo Storopoli
 
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
@@ -22,7 +22,7 @@ Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, sci
 Fake News são informações/notícias/postagens produzidas de forma inverossímil
 que, sem a devida averiguação, leva o leitor a pseudoinformações. Este fenômeno tem
 registro na escrita da história desde o Império Romano, mas no tempo presente, com a
-Internet, ocorre aceleramento avassalador(6).
+Internet, ocorre aceleramento avassalador.
 
    :pushpin: O que é covid-19?
 
