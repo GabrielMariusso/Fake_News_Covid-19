@@ -11,11 +11,11 @@
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 ```
  :mortar_board: Integrantes do grupo:
-  - Adriano Pereira da Cruz - RA 2219100541
-  - Gabriel Mariusso Campachi - RA 3019112775
-  - Matheus Luiz de Lima - RA 3019103083
-  - Ricardo Constantino Ferreira - RA 3019109310
-  - Sabrina Silva de Souza Assis - RA 3019114901
+  - Adriano Pereira da Cruz
+  - Gabriel Mariusso Campachi
+  - Matheus Luiz de Lima
+  - Ricardo Constantino Ferreira
+  - Sabrina Silva de Souza Assis
 
 ### Sobre o tema
 
