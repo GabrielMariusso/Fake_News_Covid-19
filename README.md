@@ -2,7 +2,9 @@
 ### Trabalho da Disciplina de Ciência de Dados
 
  :school: Faculdade: Universidade Nove de Julho 
+ 
  :computer: Curso: Ciência da Computação
+ 
  :blue_book: Professor: Prof. Dr. José Eduardo Storopoli
 
 ```
