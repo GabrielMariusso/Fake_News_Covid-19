@@ -8,7 +8,7 @@
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 ```
-- :mortar_board: Integrantes:
+- :mortar_board: Integrantes do grupo:
   - Adriano Pereira da Cruz - RA 2219100541
   - Gabriel Mariusso Campachi - RA 3019112775
   - Matheus Luiz de Lima - RA 3019103083
@@ -17,14 +17,14 @@ Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, sci
 
 ### Sobre o tema
 
-- :pushpin: O que são Fake News?
+    :pushpin: O que são Fake News?
 
 Fake News são informações/notícias/postagens produzidas de forma inverossímil
 que, sem a devida averiguação, leva o leitor a pseudoinformações. Este fenômeno tem
 registro na escrita da história desde o Império Romano, mas no tempo presente, com a
 Internet, ocorre aceleramento avassalador(6).
 
-- :pushpin: O que é covid-19?
+    :pushpin: O que é covid-19?
 
 A Covid-19 é uma infecção respiratória aguda causada pelo coronavírus SARS-CoV-2, potencialmente grave, de elevada transmissibilidade e de distribuição global.
 
