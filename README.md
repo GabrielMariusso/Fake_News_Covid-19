@@ -17,7 +17,7 @@ Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, sci
   - Ricardo Constantino Ferreira
   - Sabrina Silva de Souza Assis
 
-### Sobre o tema do trabalho
+### Sobre o Tema do Trabalho
 
    :pushpin: O que são Fake News?
 
