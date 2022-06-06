@@ -1,7 +1,7 @@
 # Fake news sobre a pandemia de covid-19
 ### Trabalho da Disciplina de Ciência de Dados
 
- :school: Faculdade: Universidade Nove de Julho 
+ :school: Universidade: Universidade Nove de Julho 
  
  :computer: Curso: Ciência da Computação
  
